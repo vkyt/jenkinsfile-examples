@@ -1,8 +1,10 @@
 mailer:408.vd726a_1130320
 display-url-api:2.3.5 
 jakarta-activation-api:2.0.0-1
-jakarta-mail-api:2.0.0-5
+jakarta-mail-api:2.0.0-1
 javax-mail-api:1.6.2-5
 javax-activation-api:1.2.0-3
 google-login:1.6
 sumologic-publisher:2.2.1
+maven-plugin:3.16
+workflow-support:
